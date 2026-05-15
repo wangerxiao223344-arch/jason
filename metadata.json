@@ -1,0 +1,5 @@
+{
+  "name": "AI Storyboard Prompt Generator",
+  "description": "Generate cohesive 3x3 storyboard prompts based on reference images using Gemini AI.",
+  "requestFramePermissions": []
+}
